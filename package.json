@@ -27,9 +27,11 @@
     "expect": "^21.2.1",
     "jquery": "^3.1.1",
     "marked": "^0.3.6",
+    "mocha-multi": "^1.0.0",
     "react": "^16.0.0 ",
     "react-dom": "^16.0.0 ",
     "react-router-dom": "^4.2.2",
+    "react-router-link": "^2.0.2",
     "react-test-renderer": "^16.0.0",
     "sinon": "^1.17.7",
     "superagent": "^3.3.2"
